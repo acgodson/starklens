@@ -48,20 +48,20 @@
     "0x3411ba0e0a6ac6a4603b740b2527d3d91a45031a3c22297d7c3f24431ee19d2",
     "0x15",
     "0x800000000000000700000000000000000000000000000005",
-    "0x221d00d0e8db8bdb3f2241ce422738eae0229f37193d16d5a76ae11c7bc6d64",
+    "0x66c589df974066686d7d9b8d5784bd020153d13c515f733904dd9a6019b83e",
     "0x12",
     "0x16",
     "0x4172726179",
     "0x800000000000000300000000000000000000000000000001",
     "0x800000000000000300000000000000000000000000000003",
-    "0x2c578c1c1c1ed51658942baceeef82cd87e23c681a803d25c7fce0bbe44863a",
+    "0x2b3f58ce16c49775cebe497c70f141e2d1ee7b78340ea9b0c493cad0cf49ca9",
     "0x17",
     "0x18",
     "0x800000000000000300000000000000000000000000000002",
     "0x19",
     "0x16a4c8d7c05909052238a862d8cc3e7975bf05a07b3a69c6b28951083a6d672",
     "0x1b",
-    "0x22d0fea3f49dbc4eaa9a4f3e746d42e27d1690d5041909c59704c44c0fb39e6",
+    "0x28b02e78da478f7d2c4f3df9bce59e96806ca49d2f63ae2a1abdf9525c9c02b",
     "0x1a",
     "0x1c",
     "0xccf52bb0646785c5ad2a653e9ec60b68f9843823a0c386724530f0e305f2c4",
@@ -71,7 +71,7 @@
     "0x47617465643a20756e617574686f72697a6564206163636f756e74",
     "0x753332",
     "0x800000000000000700000000000000000000000000000002",
-    "0x22e11c2409c4f34c3f27fd3915d6cb7a2476a5c0803c1017c5fcd4c2fc7ec61",
+    "0x2905aa5b64415d52270282c08bf948c5758de5f2a67c6afad0a93c1a5efc860",
     "0x22",
     "0x39",
     "0x446f6573206e6f74206f776e20726571756972656420746f6b656e",
@@ -81,15 +81,15 @@
     "0x4e6f7420696e20636f6c6c656374696f6e",
     "0x2ce4352eafa6073ab4ecf9445ae96214f99c2c33a29c01fcae68ba501d10e2c",
     "0x2a",
-    "0x1b2795a8d34e832d09ab196bf61d226f36cd2881cc3485df4cdbe7beda66646",
+    "0x1c9e6627094247e53df05e00e291e3c33b8ccf257ea74e054f26e3af4f261ee",
     "0x556e617574686f72697a6564",
-    "0x33f13e09ac38492e65abcb44caa800e36f7186593b3e730591725c27cdf7d9f",
+    "0x1a1285921a687c80508a88d35bf574a98ba14a0fcb91f7c6ef393bc370b8861",
     "0x496e76616c6964207374617465",
     "0x53746f7265553332202d206e6f6e20753332",
     "0x7533325f616464204f766572666c6f77",
-    "0x9f19a69ef71e56787788341d9954f8a403815cfe3a8fefe6d895e86406d87d",
+    "0x3f3380fce3f30916c6c0a50e2f7d24c7a3dbeb535a3568d5db8c973d4039ae0",
     "0x800000000000000700000000000000000000000000000004",
-    "0x3109c96cdba83a85f167b69641427ad2e75425afb5487902f6f459f57411af2",
+    "0x36ec70e2b9c76ef6b53729713df1083964133e62e064fb3bf35dfae669ac0f1",
     "0x33",
     "0x2e",
     "0x23",
@@ -101,7 +101,7 @@
     "0xc",
     "0xa853c166304d20fb0711becf2cbdf482dee3cac4e9717d040b7a7ab1df7eec",
     "0x3b",
-    "0x36e97b4619c728f061da7c3ec87dc1eb10fbd03131925f29d3bfb5b43153b0b",
+    "0x3f262f22b7880dbe9e82794dc0487aa38cca7e593aec5f3ce98307139dcde38",
     "0x426f78",
     "0x800000000000000700000000000000000000000000000001",
     "0x46",
@@ -133,22 +133,22 @@
     "0x50",
     "0x53746f7261676541646472657373",
     "0x800000000000000700000000000000000000000000000009",
-    "0x27976643876f327710abd4f93ea53cd7613d5d620c49e10985887a0daaa875d",
-    "0x3d4e9bc25b9e8452c0d10f88ceeacac6b0296e9774e58428c459d4d98ae09c4",
+    "0xead78b075132a7e638476ca3a2a34940c9d950de1bed3c4da785d904b73f22",
+    "0x5649ac47828397ec5311b374e972dc247114e31a1cf885604b6aca7c1df16a",
     "0x51",
     "0x52",
-    "0x307f16395978bce775ba9835fa02ade2006ea5aae3ce4648f8e66aeced2e12",
+    "0x3c36260ce7ebc46997929f006d507badafe47de59571c86612018885f652f82",
     "0x53",
     "0x53746f726167654261736541646472657373",
     "0x36df9d06808417dd5418f1affa340f30b2c975d7bae1d6ce5bcd85c10200d99",
-    "0xde94fef43ebc1eca057b25a294106bbee9bcc8b7c067c2c4301d2f38f3129",
-    "0x36e3ff0f6fadb1fef72bb721d2f0ebcd3f7bcf156637db82cd7636c9903e9f6",
+    "0xcab53ec7ddab96e3a85533e0bc2c31609715dc4a6694c3f7113c95ae1fd1e5",
+    "0x23a521099f596409882d331120fd06c48f01a2c34f302c7610aa1ce6e6a1c5",
     "0x800000000000000f00000000000000000000000000000003",
-    "0xee43268f09dd8385056bdd510ee3eb9df939c474c0c320cc8ce7631284501a",
+    "0x3a5743a49fb6f23f009246f9c7200caf49b731934c8a32ef70a407fe1cb7816",
     "0x58",
     "0x59",
     "0x5a",
-    "0x38309c5ef7bea0be2de912fda5bc3c2cc92d7a33b68ab2987cdcb598ab1087",
+    "0x132e6cafacc2018b779f83ea3dfef812724dd989c4ed7a4bb19469fdd2336f5",
     "0x5b",
     "0x4661696c656420746f20646573657269616c697a6520706172616d202331",
     "0x4661696c656420746f20646573657269616c697a6520706172616d202332",
@@ -159,7 +159,7 @@
     "0x4661696c656420746f20646573657269616c697a6520706172616d202337",
     "0x4661696c656420746f20646573657269616c697a6520706172616d202338",
     "0x4f7574206f6620676173",
-    "0x2f999ddf90b357f700b33133c9b2c2abdf6986e6e54a4f7004f9b504ef52a6d",
+    "0xaf149bdb4ed4a3b1618adf9dc9aa692dd89d96b1c085a746cec025e9177f89",
     "0x67",
     "0x4275696c74696e436f737473",
     "0x53797374656d",
@@ -3191,9 +3191,1117 @@
     "0x2090050200c00283005e01e088bd2382f003805020458670cd020470208e7"
   ],
   "sierra_program_debug_info": {
-    "type_names": [],
-    "libfunc_names": [],
-    "user_func_names": []
+    "type_names": [
+      [0, "RangeCheck"],
+      [1, "Const<felt252, 97606813135034077816509356380394977338>"],
+      [2, "Const<felt252, 476442828812030857794232422692155113556837216824>"],
+      [
+        3,
+        "Const<felt252, 1507437626807800615315004738637144922697981204057516501649517912180529424988>"
+      ],
+      [
+        4,
+        "Const<felt252, 1516754014369808875012295842270199525215452866521012470027807093200784961331>"
+      ],
+      [
+        5,
+        "Const<felt252, 232670485425082704932579856502088130646006032362877466777181098476241604910>"
+      ],
+      [
+        6,
+        "Const<felt252, 652123257874086435096971490829792459073256672463643104189450917632179728328>"
+      ],
+      [
+        7,
+        "Const<felt252, 1572892732525757176743455543647891952731949263449815173137504633746168803147>"
+      ],
+      [
+        8,
+        "Const<felt252, 1574211140403030844744284510549568409938241384910199620239548846480830788375>"
+      ],
+      [9, "Const<felt252, 0>"],
+      [
+        10,
+        "Const<felt252, 7891998437966260601762371672023996916393715052535837300>"
+      ],
+      [11, "Unit"],
+      [12, "core::bool"],
+      [
+        13,
+        "Const<felt252, 1555377517929037318987687899825758707538299441176447799544473656894800517992>"
+      ],
+      [14, "Const<felt252, 1749165063169615148890104124711417950509560691>"],
+      [15, "Const<felt252, 110930490496575599150170734222081291576>"],
+      [16, "Const<felt252, 608642104203229548495787928534675319>"],
+      [17, "ContractAddress"],
+      [
+        18,
+        "core::option::Option::<core::starknet::contract_address::ContractAddress>"
+      ],
+      [19, "u128"],
+      [20, "core::integer::u256"],
+      [21, "Tuple<ContractAddress, core::integer::u256>"],
+      [
+        22,
+        "core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>"
+      ],
+      [23, "starklens_contracts::lens_swap_erc20::GatingCriteria"],
+      [24, "Array<felt252>"],
+      [
+        25,
+        "core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>"
+      ],
+      [
+        26,
+        "Tuple<core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>>"
+      ],
+      [27, "core::panics::Panic"],
+      [28, "Tuple<core::panics::Panic, Array<felt252>>"],
+      [
+        29,
+        "core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>,)>"
+      ],
+      [
+        30,
+        "core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>"
+      ],
+      [
+        31,
+        "Tuple<core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>>"
+      ],
+      [
+        32,
+        "core::panics::PanicResult::<(core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>,)>"
+      ],
+      [
+        33,
+        "Const<felt252, 29364309512658473144412054589907102121122374119909395284821896820>"
+      ],
+      [34, "u32"],
+      [35, "starklens_contracts::lens_swap_erc20::LenSwapERC20::Finished"],
+      [36, "Const<u8, 1>"],
+      [
+        37,
+        "Const<felt252, 28152584407546629742699303728574338990965338176740960558843127150>"
+      ],
+      [38, "Tuple<ContractAddress>"],
+      [
+        39,
+        "core::panics::PanicResult::<(core::starknet::contract_address::ContractAddress,)>"
+      ],
+      [
+        40,
+        "Const<felt252, 117999789458280066397875131296811510262723748280833728788194149>"
+      ],
+      [41, "Const<felt252, 26690171891191062739167919267478747311982>"],
+      [42, "Tuple<core::integer::u256>"],
+      [43, "core::panics::PanicResult::<(core::integer::u256,)>"],
+      [44, "starklens_contracts::lens_swap_erc20::IERC721Dispatcher"],
+      [45, "Const<felt252, 26439667911177911873591469412>"],
+      [46, "starklens_contracts::lens_swap_erc20::LenSwapERC20::Cancelled"],
+      [47, "Const<u8, 2>"],
+      [48, "Const<felt252, 5817842327937750556999166293093>"],
+      [49, "Const<felt252, 7269940625183576940180048306939577043858226>"],
+      [50, "Const<felt252, 155785504323917466144735657540098748279>"],
+      [51, "starklens_contracts::lens_swap_erc20::LenSwapERC20::Begun"],
+      [52, "starklens_contracts::lens_swap_erc20::LenSwapERC20::Event"],
+      [53, "core::result::Result::<(), core::array::Array::<core::felt252>>"],
+      [
+        54,
+        "Tuple<core::result::Result::<(), core::array::Array::<core::felt252>>>"
+      ],
+      [
+        55,
+        "core::panics::PanicResult::<(core::result::Result::<(), core::array::Array::<core::felt252>>,)>"
+      ],
+      [56, "Const<u8, 0>"],
+      [57, "u8"],
+      [58, "Const<u32, 1>"],
+      [59, "Tuple<core::bool>"],
+      [60, "core::panics::PanicResult::<(core::bool,)>"],
+      [61, "starklens_contracts::lens_swap_erc20::IERC20Dispatcher"],
+      [62, "Box<core::starknet::info::v2::TxInfo>"],
+      [63, "Box<core::starknet::info::BlockInfo>"],
+      [64, "felt252"],
+      [65, "Snapshot<Array<felt252>>"],
+      [66, "core::array::Span::<core::felt252>"],
+      [67, "Array<core::starknet::info::v2::ResourceBounds>"],
+      [68, "Snapshot<Array<core::starknet::info::v2::ResourceBounds>>"],
+      [69, "core::array::Span::<core::starknet::info::v2::ResourceBounds>"],
+      [70, "core::starknet::info::v2::TxInfo"],
+      [71, "u64"],
+      [72, "core::starknet::info::BlockInfo"],
+      [73, "core::starknet::info::v2::ResourceBounds"],
+      [74, "core::starknet::info::v2::ExecutionInfo"],
+      [75, "Box<core::starknet::info::v2::ExecutionInfo>"],
+      [
+        76,
+        "Const<felt252, 7733238897357345446848657824358367292206566287098537747528243572340>"
+      ],
+      [
+        77,
+        "Const<felt252, 1800534990000851789229290658821755225959888374756460031604>"
+      ],
+      [78, "Const<core::integer::u256, Const<u128, 0>, Const<u128, 0>>"],
+      [79, "StorageAddress"],
+      [80, "Const<u128, 0>"],
+      [81, "starklens_contracts::lens_swap_erc20::Instance"],
+      [
+        82,
+        "core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>"
+      ],
+      [
+        83,
+        "Tuple<core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>>"
+      ],
+      [
+        84,
+        "core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>,)>"
+      ],
+      [85, "Const<u32, 0>"],
+      [86, "StorageBaseAddress"],
+      [
+        87,
+        "Const<felt252, 1551249029275775258244908147987307351265103889799873084435625695960444702105>"
+      ],
+      [
+        88,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__member_module_instance_id::ContractMemberState"
+      ],
+      [
+        89,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__member_module_instances::ContractMemberState"
+      ],
+      [90, "starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState"],
+      [
+        91,
+        "Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, Unit>"
+      ],
+      [
+        92,
+        "core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, ())>"
+      ],
+      [
+        93,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492913>"
+      ],
+      [
+        94,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492914>"
+      ],
+      [
+        95,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492915>"
+      ],
+      [
+        96,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492916>"
+      ],
+      [
+        97,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492917>"
+      ],
+      [
+        98,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492918>"
+      ],
+      [
+        99,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492919>"
+      ],
+      [
+        100,
+        "Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492920>"
+      ],
+      [101, "Const<felt252, 375233589013918064796019>"],
+      [102, "Tuple<core::array::Span::<core::felt252>>"],
+      [
+        103,
+        "Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, u32>"
+      ],
+      [
+        104,
+        "core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, core::integer::u32)>"
+      ],
+      [105, "BuiltinCosts"],
+      [106, "System"],
+      [107, "Pedersen"],
+      [
+        108,
+        "core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>"
+      ],
+      [
+        109,
+        "Const<felt252, 7733229381460288120802334208475838166080759535023995805565484692595>"
+      ],
+      [110, "Const<felt252, 1>"],
+      [
+        111,
+        "core::option::Option::<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>"
+      ],
+      [112, "NonZero<felt252>"],
+      [
+        113,
+        "core::option::Option::<core::option::Option::<core::starknet::contract_address::ContractAddress>>"
+      ],
+      [114, "core::option::Option::<core::integer::u256>"],
+      [115, "Box<felt252>"],
+      [116, "core::option::Option::<core::box::Box::<@core::felt252>>"],
+      [117, "core::option::Option::<core::felt252>"],
+      [118, "GasBuiltin"]
+    ],
+    "libfunc_names": [
+      [0, "revoke_ap_tracking"],
+      [1, "withdraw_gas"],
+      [2, "branch_align"],
+      [3, "struct_deconstruct<core::array::Span::<core::felt252>>"],
+      [4, "enable_ap_tracking"],
+      [5, "store_temp<RangeCheck>"],
+      [6, "array_snapshot_pop_front<felt252>"],
+      [7, "unbox<felt252>"],
+      [8, "rename<felt252>"],
+      [9, "enum_init<core::option::Option::<core::felt252>, 0>"],
+      [10, "store_temp<Snapshot<Array<felt252>>>"],
+      [11, "store_temp<core::option::Option::<core::felt252>>"],
+      [12, "jump"],
+      [13, "struct_construct<Unit>"],
+      [14, "enum_init<core::option::Option::<core::felt252>, 1>"],
+      [15, "enum_match<core::option::Option::<core::felt252>>"],
+      [16, "contract_address_try_from_felt252"],
+      [
+        17,
+        "enum_init<core::option::Option::<core::box::Box::<@core::felt252>>, 0>"
+      ],
+      [
+        18,
+        "store_temp<core::option::Option::<core::box::Box::<@core::felt252>>>"
+      ],
+      [
+        19,
+        "enum_init<core::option::Option::<core::box::Box::<@core::felt252>>, 1>"
+      ],
+      [
+        20,
+        "enum_match<core::option::Option::<core::box::Box::<@core::felt252>>>"
+      ],
+      [21, "store_temp<felt252>"],
+      [22, "u128s_from_felt252"],
+      [23, "struct_construct<core::integer::u256>"],
+      [24, "enum_init<core::option::Option::<core::integer::u256>, 0>"],
+      [25, "store_temp<core::option::Option::<core::integer::u256>>"],
+      [26, "drop<u128>"],
+      [27, "drop<Unit>"],
+      [28, "enum_init<core::option::Option::<core::integer::u256>, 1>"],
+      [29, "rename<RangeCheck>"],
+      [30, "enum_match<core::option::Option::<core::integer::u256>>"],
+      [31, "struct_construct<core::array::Span::<core::felt252>>"],
+      [32, "store_temp<core::array::Span::<core::felt252>>"],
+      [
+        33,
+        "function_call<user@core::option::OptionSerde::<core::starknet::contract_address::ContractAddress, core::starknet::contract_address::ContractAddressSerde, core::traits::DestructFromDrop::<core::starknet::contract_address::ContractAddress, core::starknet::contract_address::ContractAddressDrop>>::deserialize>"
+      ],
+      [
+        34,
+        "enum_match<core::option::Option::<core::option::Option::<core::starknet::contract_address::ContractAddress>>>"
+      ],
+      [35, "dup<felt252>"],
+      [36, "felt252_is_zero"],
+      [37, "drop<felt252>"],
+      [
+        38,
+        "function_call<user@core::serde::TupleSize2Serde::<core::starknet::contract_address::ContractAddress, core::integer::u256, core::starknet::contract_address::ContractAddressSerde, core::starknet::contract_address::ContractAddressDrop, core::integer::u256Serde, core::integer::u256Drop>::deserialize>"
+      ],
+      [
+        39,
+        "enum_match<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>"
+      ],
+      [
+        40,
+        "enum_init<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>, 0>"
+      ],
+      [
+        41,
+        "store_temp<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>"
+      ],
+      [
+        42,
+        "enum_init<core::option::Option::<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>, 1>"
+      ],
+      [
+        43,
+        "store_temp<core::option::Option::<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>>"
+      ],
+      [44, "drop<NonZero<felt252>>"],
+      [45, "const_as_immediate<Const<felt252, 1>>"],
+      [46, "felt252_sub"],
+      [
+        47,
+        "enum_init<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>, 1>"
+      ],
+      [
+        48,
+        "enum_init<core::option::Option::<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>, 0>"
+      ],
+      [
+        49,
+        "enum_match<core::option::Option::<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>>"
+      ],
+      [50, "disable_ap_tracking"],
+      [51, "drop<Snapshot<Array<felt252>>>"],
+      [52, "drop<Box<felt252>>"],
+      [
+        53,
+        "drop<core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>>"
+      ],
+      [
+        54,
+        "drop<core::option::Option::<core::starknet::contract_address::ContractAddress>>"
+      ],
+      [55, "drop<ContractAddress>"],
+      [56, "drop<core::integer::u256>"],
+      [57, "array_new<felt252>"],
+      [
+        58,
+        "const_as_immediate<Const<felt252, 7733229381460288120802334208475838166080759535023995805565484692595>>"
+      ],
+      [59, "array_append<felt252>"],
+      [60, "struct_construct<core::panics::Panic>"],
+      [61, "struct_construct<Tuple<core::panics::Panic, Array<felt252>>>"],
+      [
+        62,
+        "enum_init<core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>, 1>"
+      ],
+      [63, "store_temp<Pedersen>"],
+      [64, "store_temp<GasBuiltin>"],
+      [65, "store_temp<System>"],
+      [
+        66,
+        "store_temp<core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>>"
+      ],
+      [67, "get_builtin_costs"],
+      [68, "store_temp<BuiltinCosts>"],
+      [69, "withdraw_gas_all"],
+      [
+        70,
+        "struct_construct<starklens_contracts::lens_swap_erc20::LenSwapERC20::__member_module_instance_id::ContractMemberState>"
+      ],
+      [
+        71,
+        "struct_construct<starklens_contracts::lens_swap_erc20::LenSwapERC20::__member_module_instances::ContractMemberState>"
+      ],
+      [
+        72,
+        "struct_construct<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState>"
+      ],
+      [73, "store_temp<ContractAddress>"],
+      [74, "store_temp<core::integer::u256>"],
+      [
+        75,
+        "store_temp<core::option::Option::<core::starknet::contract_address::ContractAddress>>"
+      ],
+      [
+        76,
+        "function_call<user@starklens_contracts::lens_swap_erc20::LenSwapERC20::SwapERC20Impl::begin>"
+      ],
+      [
+        77,
+        "enum_match<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, core::integer::u32)>>"
+      ],
+      [
+        78,
+        "struct_deconstruct<Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, u32>>"
+      ],
+      [
+        79,
+        "drop<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState>"
+      ],
+      [80, "u32_to_felt252"],
+      [81, "snapshot_take<Array<felt252>>"],
+      [82, "drop<Array<felt252>>"],
+      [83, "struct_construct<Tuple<core::array::Span::<core::felt252>>>"],
+      [
+        84,
+        "enum_init<core::panics::PanicResult::<(core::array::Span::<core::felt252>,)>, 0>"
+      ],
+      [85, "const_as_immediate<Const<felt252, 375233589013918064796019>>"],
+      [
+        86,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492920>>"
+      ],
+      [
+        87,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492919>>"
+      ],
+      [88, "drop<core::array::Span::<core::felt252>>"],
+      [
+        89,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492918>>"
+      ],
+      [
+        90,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492917>>"
+      ],
+      [
+        91,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492916>>"
+      ],
+      [
+        92,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492915>>"
+      ],
+      [
+        93,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492914>>"
+      ],
+      [
+        94,
+        "const_as_immediate<Const<felt252, 485748461484230571791265682659113160264223489397539653310998840191492913>>"
+      ],
+      [95, "u32_try_from_felt252"],
+      [96, "drop<u32>"],
+      [97, "store_temp<u32>"],
+      [
+        98,
+        "function_call<user@starklens_contracts::lens_swap_erc20::LenSwapERC20::SwapERC20Impl::cancel>"
+      ],
+      [
+        99,
+        "enum_match<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, ())>>"
+      ],
+      [
+        100,
+        "drop<Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, Unit>>"
+      ],
+      [
+        101,
+        "function_call<user@starklens_contracts::lens_swap_erc20::LenSwapERC20::SwapERC20Impl::complete>"
+      ],
+      [
+        102,
+        "const_as_immediate<Const<felt252, 1551249029275775258244908147987307351265103889799873084435625695960444702105>>"
+      ],
+      [103, "pedersen"],
+      [104, "storage_base_address_from_felt252"],
+      [105, "const_as_immediate<Const<u32, 0>>"],
+      [106, "store_temp<StorageBaseAddress>"],
+      [
+        107,
+        "function_call<user@starklens_contracts::lens_swap_erc20::StoreInstance::read>"
+      ],
+      [
+        108,
+        "enum_match<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        109,
+        "struct_deconstruct<Tuple<core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        110,
+        "enum_match<core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>>"
+      ],
+      [111, "snapshot_take<starklens_contracts::lens_swap_erc20::Instance>"],
+      [112, "drop<starklens_contracts::lens_swap_erc20::Instance>"],
+      [113, "store_temp<starklens_contracts::lens_swap_erc20::Instance>"],
+      [114, "store_temp<Array<felt252>>"],
+      [
+        115,
+        "function_call<user@starklens_contracts::lens_swap_erc20::InstanceSerde::serialize>"
+      ],
+      [116, "struct_deconstruct<Tuple<core::panics::Panic, Array<felt252>>>"],
+      [117, "drop<core::panics::Panic>"],
+      [
+        118,
+        "storage_base_address_const<509995350005772127241231820822446758556248952927980120687076455170436274455>"
+      ],
+      [119, "storage_address_from_base"],
+      [120, "store_temp<StorageAddress>"],
+      [121, "storage_write_syscall"],
+      [122, "dup<Snapshot<Array<felt252>>>"],
+      [
+        123,
+        "enum_init<core::option::Option::<core::starknet::contract_address::ContractAddress>, 0>"
+      ],
+      [
+        124,
+        "enum_init<core::option::Option::<core::option::Option::<core::starknet::contract_address::ContractAddress>>, 1>"
+      ],
+      [
+        125,
+        "store_temp<core::option::Option::<core::option::Option::<core::starknet::contract_address::ContractAddress>>>"
+      ],
+      [
+        126,
+        "enum_init<core::option::Option::<core::starknet::contract_address::ContractAddress>, 1>"
+      ],
+      [
+        127,
+        "enum_init<core::option::Option::<core::option::Option::<core::starknet::contract_address::ContractAddress>>, 0>"
+      ],
+      [128, "struct_construct<Tuple<ContractAddress, core::integer::u256>>"],
+      [
+        129,
+        "const_as_immediate<Const<core::integer::u256, Const<u128, 0>, Const<u128, 0>>>"
+      ],
+      [130, "struct_deconstruct<core::integer::u256>"],
+      [131, "dup<core::integer::u256>"],
+      [132, "dup<u128>"],
+      [133, "store_temp<u128>"],
+      [134, "u128_overflowing_sub"],
+      [135, "u128_eq"],
+      [
+        136,
+        "const_as_immediate<Const<felt252, 1800534990000851789229290658821755225959888374756460031604>>"
+      ],
+      [
+        137,
+        "enum_init<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, core::integer::u32)>, 1>"
+      ],
+      [
+        138,
+        "store_temp<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, core::integer::u32)>>"
+      ],
+      [
+        139,
+        "const_as_immediate<Const<felt252, 7733238897357345446848657824358367292206566287098537747528243572340>>"
+      ],
+      [140, "get_execution_info_v2_syscall"],
+      [141, "store_temp<Box<core::starknet::info::v2::ExecutionInfo>>"],
+      [142, "unbox<core::starknet::info::v2::ExecutionInfo>"],
+      [143, "store_temp<core::starknet::info::v2::ExecutionInfo>"],
+      [144, "struct_deconstruct<core::starknet::info::v2::ExecutionInfo>"],
+      [145, "drop<Box<core::starknet::info::BlockInfo>>"],
+      [146, "drop<Box<core::starknet::info::v2::TxInfo>>"],
+      [147, "dup<ContractAddress>"],
+      [
+        148,
+        "struct_construct<starklens_contracts::lens_swap_erc20::IERC20Dispatcher>"
+      ],
+      [
+        149,
+        "store_temp<starklens_contracts::lens_swap_erc20::IERC20Dispatcher>"
+      ],
+      [
+        150,
+        "function_call<user@starklens_contracts::lens_swap_erc20::IERC20DispatcherImpl::transfer_from>"
+      ],
+      [151, "enum_match<core::panics::PanicResult::<(core::bool,)>>"],
+      [152, "drop<Tuple<core::bool>>"],
+      [153, "storage_read_syscall"],
+      [154, "const_as_immediate<Const<u32, 1>>"],
+      [155, "u32_overflowing_add"],
+      [156, "dup<u32>"],
+      [157, "const_as_immediate<Const<u8, 0>>"],
+      [
+        158,
+        "struct_construct<starklens_contracts::lens_swap_erc20::GatingCriteria>"
+      ],
+      [159, "struct_construct<starklens_contracts::lens_swap_erc20::Instance>"],
+      [
+        160,
+        "function_call<user@starklens_contracts::lens_swap_erc20::StoreInstance::write>"
+      ],
+      [
+        161,
+        "enum_match<core::panics::PanicResult::<(core::result::Result::<(), core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        162,
+        "struct_deconstruct<Tuple<core::result::Result::<(), core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        163,
+        "enum_match<core::result::Result::<(), core::array::Array::<core::felt252>>>"
+      ],
+      [
+        164,
+        "struct_construct<starklens_contracts::lens_swap_erc20::LenSwapERC20::Begun>"
+      ],
+      [
+        165,
+        "enum_init<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event, 0>"
+      ],
+      [
+        166,
+        "store_temp<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event>"
+      ],
+      [
+        167,
+        "function_call<user@starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractStateEventEmitter::emit::<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event, core::traits::TIntoT::<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event>>>"
+      ],
+      [
+        168,
+        "struct_deconstruct<Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, Unit>>"
+      ],
+      [
+        169,
+        "struct_construct<Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, u32>>"
+      ],
+      [
+        170,
+        "enum_init<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, core::integer::u32)>, 0>"
+      ],
+      [
+        171,
+        "const_as_immediate<Const<felt252, 155785504323917466144735657540098748279>>"
+      ],
+      [
+        172,
+        "const_as_immediate<Const<felt252, 7269940625183576940180048306939577043858226>>"
+      ],
+      [173, "drop<core::starknet::info::v2::ExecutionInfo>"],
+      [
+        174,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::Instance>"
+      ],
+      [175, "contract_address_to_felt252"],
+      [176, "u8_eq"],
+      [177, "drop<starklens_contracts::lens_swap_erc20::GatingCriteria>"],
+      [
+        178,
+        "const_as_immediate<Const<felt252, 5817842327937750556999166293093>>"
+      ],
+      [
+        179,
+        "enum_init<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, ())>, 1>"
+      ],
+      [
+        180,
+        "store_temp<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, ())>>"
+      ],
+      [181, "const_as_immediate<Const<u8, 2>>"],
+      [
+        182,
+        "function_call<user@starklens_contracts::lens_swap_erc20::IERC20DispatcherImpl::transfer>"
+      ],
+      [
+        183,
+        "struct_construct<starklens_contracts::lens_swap_erc20::LenSwapERC20::Cancelled>"
+      ],
+      [
+        184,
+        "enum_init<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event, 1>"
+      ],
+      [185, "drop<u8>"],
+      [
+        186,
+        "const_as_immediate<Const<felt252, 26439667911177911873591469412>>"
+      ],
+      [187, "contract_address_const<0>"],
+      [188, "dup<starklens_contracts::lens_swap_erc20::GatingCriteria>"],
+      [
+        189,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::GatingCriteria>"
+      ],
+      [
+        190,
+        "enum_match<core::option::Option::<core::starknet::contract_address::ContractAddress>>"
+      ],
+      [
+        191,
+        "struct_construct<starklens_contracts::lens_swap_erc20::IERC721Dispatcher>"
+      ],
+      [
+        192,
+        "store_temp<starklens_contracts::lens_swap_erc20::IERC721Dispatcher>"
+      ],
+      [
+        193,
+        "function_call<user@starklens_contracts::lens_swap_erc20::IERC721DispatcherImpl::balance_of>"
+      ],
+      [194, "enum_match<core::panics::PanicResult::<(core::integer::u256,)>>"],
+      [195, "struct_deconstruct<Tuple<core::integer::u256>>"],
+      [
+        196,
+        "const_as_immediate<Const<felt252, 26690171891191062739167919267478747311982>>"
+      ],
+      [197, "struct_deconstruct<Tuple<ContractAddress, core::integer::u256>>"],
+      [
+        198,
+        "function_call<user@starklens_contracts::lens_swap_erc20::IERC20DispatcherImpl::balance_of>"
+      ],
+      [
+        199,
+        "const_as_immediate<Const<felt252, 117999789458280066397875131296811510262723748280833728788194149>>"
+      ],
+      [
+        200,
+        "function_call<user@starklens_contracts::lens_swap_erc20::IERC721DispatcherImpl::owner_of>"
+      ],
+      [
+        201,
+        "enum_match<core::panics::PanicResult::<(core::starknet::contract_address::ContractAddress,)>>"
+      ],
+      [202, "struct_deconstruct<Tuple<ContractAddress>>"],
+      [
+        203,
+        "const_as_immediate<Const<felt252, 28152584407546629742699303728574338990965338176740960558843127150>>"
+      ],
+      [204, "const_as_immediate<Const<u8, 1>>"],
+      [
+        205,
+        "struct_construct<starklens_contracts::lens_swap_erc20::LenSwapERC20::Finished>"
+      ],
+      [
+        206,
+        "enum_init<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event, 2>"
+      ],
+      [
+        207,
+        "const_as_immediate<Const<felt252, 29364309512658473144412054589907102121122374119909395284821896820>>"
+      ],
+      [208, "dup<StorageBaseAddress>"],
+      [209, "dup<u8>"],
+      [210, "storage_address_from_base_and_offset"],
+      [211, "store_temp<u8>"],
+      [212, "u8_overflowing_add"],
+      [213, "function_call<user@core::integer::Storeu256::read_at_offset>"],
+      [
+        214,
+        "enum_match<core::panics::PanicResult::<(core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        215,
+        "struct_deconstruct<Tuple<core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        216,
+        "enum_match<core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>>"
+      ],
+      [217, "u8_try_from_felt252"],
+      [
+        218,
+        "function_call<user@starklens_contracts::lens_swap_erc20::StoreGatingCriteria::read_at_offset>"
+      ],
+      [
+        219,
+        "enum_match<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        220,
+        "struct_deconstruct<Tuple<core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        221,
+        "enum_match<core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>>"
+      ],
+      [
+        222,
+        "enum_init<core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>, 0>"
+      ],
+      [
+        223,
+        "struct_construct<Tuple<core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        224,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>,)>, 0>"
+      ],
+      [
+        225,
+        "store_temp<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        226,
+        "enum_init<core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>, 1>"
+      ],
+      [
+        227,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::Instance, core::array::Array::<core::felt252>>,)>, 1>"
+      ],
+      [228, "drop<StorageBaseAddress>"],
+      [
+        229,
+        "const_as_immediate<Const<felt252, 608642104203229548495787928534675319>>"
+      ],
+      [
+        230,
+        "const_as_immediate<Const<felt252, 110930490496575599150170734222081291576>>"
+      ],
+      [
+        231,
+        "const_as_immediate<Const<felt252, 1749165063169615148890104124711417950509560691>>"
+      ],
+      [232, "dup<starklens_contracts::lens_swap_erc20::Instance>"],
+      [233, "rename<u32>"],
+      [234, "rename<ContractAddress>"],
+      [235, "rename<u128>"],
+      [236, "u128_to_felt252"],
+      [237, "rename<u8>"],
+      [238, "u8_to_felt252"],
+      [239, "store_temp<starklens_contracts::lens_swap_erc20::GatingCriteria>"],
+      [
+        240,
+        "function_call<user@starklens_contracts::lens_swap_erc20::GatingCriteriaSerde::serialize>"
+      ],
+      [241, "snapshot_take<core::integer::u256>"],
+      [
+        242,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::IERC20Dispatcher>"
+      ],
+      [
+        243,
+        "const_as_immediate<Const<felt252, 1555377517929037318987687899825758707538299441176447799544473656894800517992>>"
+      ],
+      [244, "call_contract_syscall"],
+      [245, "enum_init<core::bool, 1>"],
+      [246, "store_temp<core::bool>"],
+      [247, "enum_init<core::bool, 0>"],
+      [248, "bool_not_impl"],
+      [249, "struct_construct<Tuple<core::bool>>"],
+      [250, "enum_init<core::panics::PanicResult::<(core::bool,)>, 0>"],
+      [251, "store_temp<core::panics::PanicResult::<(core::bool,)>>"],
+      [
+        252,
+        "const_as_immediate<Const<felt252, 7891998437966260601762371672023996916393715052535837300>>"
+      ],
+      [253, "enum_init<core::panics::PanicResult::<(core::bool,)>, 1>"],
+      [254, "const_as_immediate<Const<felt252, 0>>"],
+      [255, "rename<GasBuiltin>"],
+      [256, "rename<System>"],
+      [257, "rename<Array<felt252>>"],
+      [258, "drop<Tuple<ContractAddress, core::integer::u256>>"],
+      [
+        259,
+        "enum_init<core::result::Result::<(), core::array::Array::<core::felt252>>, 0>"
+      ],
+      [
+        260,
+        "struct_construct<Tuple<core::result::Result::<(), core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        261,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<(), core::array::Array::<core::felt252>>,)>, 0>"
+      ],
+      [
+        262,
+        "store_temp<core::panics::PanicResult::<(core::result::Result::<(), core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        263,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<(), core::array::Array::<core::felt252>>,)>, 1>"
+      ],
+      [
+        264,
+        "enum_init<core::result::Result::<(), core::array::Array::<core::felt252>>, 1>"
+      ],
+      [
+        265,
+        "snapshot_take<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event>"
+      ],
+      [266, "drop<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event>"],
+      [
+        267,
+        "enum_match<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event>"
+      ],
+      [
+        268,
+        "const_as_immediate<Const<felt252, 1574211140403030844744284510549568409938241384910199620239548846480830788375>>"
+      ],
+      [269, "dup<starklens_contracts::lens_swap_erc20::LenSwapERC20::Begun>"],
+      [
+        270,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::LenSwapERC20::Begun>"
+      ],
+      [
+        271,
+        "const_as_immediate<Const<felt252, 1572892732525757176743455543647891952731949263449815173137504633746168803147>>"
+      ],
+      [
+        272,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::LenSwapERC20::Cancelled>"
+      ],
+      [
+        273,
+        "const_as_immediate<Const<felt252, 652123257874086435096971490829792459073256672463643104189450917632179728328>>"
+      ],
+      [
+        274,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::LenSwapERC20::Finished>"
+      ],
+      [275, "emit_event_syscall"],
+      [
+        276,
+        "struct_construct<Tuple<starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, Unit>>"
+      ],
+      [
+        277,
+        "enum_init<core::panics::PanicResult::<(starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractState, ())>, 0>"
+      ],
+      [
+        278,
+        "const_as_immediate<Const<felt252, 232670485425082704932579856502088130646006032362877466777181098476241604910>>"
+      ],
+      [
+        279,
+        "struct_deconstruct<starklens_contracts::lens_swap_erc20::IERC721Dispatcher>"
+      ],
+      [
+        280,
+        "const_as_immediate<Const<felt252, 1516754014369808875012295842270199525215452866521012470027807093200784961331>>"
+      ],
+      [281, "struct_construct<Tuple<core::integer::u256>>"],
+      [
+        282,
+        "enum_init<core::panics::PanicResult::<(core::integer::u256,)>, 0>"
+      ],
+      [283, "store_temp<core::panics::PanicResult::<(core::integer::u256,)>>"],
+      [
+        284,
+        "enum_init<core::panics::PanicResult::<(core::integer::u256,)>, 1>"
+      ],
+      [
+        285,
+        "const_as_immediate<Const<felt252, 1507437626807800615315004738637144922697981204057516501649517912180529424988>>"
+      ],
+      [286, "struct_construct<Tuple<ContractAddress>>"],
+      [
+        287,
+        "enum_init<core::panics::PanicResult::<(core::starknet::contract_address::ContractAddress,)>, 0>"
+      ],
+      [
+        288,
+        "store_temp<core::panics::PanicResult::<(core::starknet::contract_address::ContractAddress,)>>"
+      ],
+      [
+        289,
+        "enum_init<core::panics::PanicResult::<(core::starknet::contract_address::ContractAddress,)>, 1>"
+      ],
+      [
+        290,
+        "enum_init<core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>, 0>"
+      ],
+      [
+        291,
+        "struct_construct<Tuple<core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        292,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>,)>, 0>"
+      ],
+      [
+        293,
+        "store_temp<core::panics::PanicResult::<(core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        294,
+        "const_as_immediate<Const<felt252, 476442828812030857794232422692155113556837216824>>"
+      ],
+      [
+        295,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>,)>, 1>"
+      ],
+      [
+        296,
+        "enum_init<core::result::Result::<core::integer::u256, core::array::Array::<core::felt252>>, 1>"
+      ],
+      [
+        297,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>,)>, 1>"
+      ],
+      [
+        298,
+        "store_temp<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>,)>>"
+      ],
+      [
+        299,
+        "enum_init<core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>, 0>"
+      ],
+      [
+        300,
+        "struct_construct<Tuple<core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>>>"
+      ],
+      [
+        301,
+        "enum_init<core::panics::PanicResult::<(core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>,)>, 0>"
+      ],
+      [
+        302,
+        "const_as_immediate<Const<felt252, 97606813135034077816509356380394977338>>"
+      ],
+      [
+        303,
+        "enum_init<core::result::Result::<starklens_contracts::lens_swap_erc20::GatingCriteria, core::array::Array::<core::felt252>>, 1>"
+      ]
+    ],
+    "user_func_names": [
+      [
+        0,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__wrapper__SwapERC20Impl__begin"
+      ],
+      [
+        1,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__wrapper__SwapERC20Impl__cancel"
+      ],
+      [
+        2,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__wrapper__SwapERC20Impl__complete"
+      ],
+      [
+        3,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__wrapper__SwapERC20Impl__find_instance"
+      ],
+      [
+        4,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::__wrapper__constructor"
+      ],
+      [
+        5,
+        "core::option::OptionSerde::<core::starknet::contract_address::ContractAddress, core::starknet::contract_address::ContractAddressSerde, core::traits::DestructFromDrop::<core::starknet::contract_address::ContractAddress, core::starknet::contract_address::ContractAddressDrop>>::deserialize"
+      ],
+      [
+        6,
+        "core::serde::TupleSize2Serde::<core::starknet::contract_address::ContractAddress, core::integer::u256, core::starknet::contract_address::ContractAddressSerde, core::starknet::contract_address::ContractAddressDrop, core::integer::u256Serde, core::integer::u256Drop>::deserialize"
+      ],
+      [
+        7,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::SwapERC20Impl::begin"
+      ],
+      [
+        8,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::SwapERC20Impl::cancel"
+      ],
+      [
+        9,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::SwapERC20Impl::complete"
+      ],
+      [10, "starklens_contracts::lens_swap_erc20::StoreInstance::read"],
+      [11, "starklens_contracts::lens_swap_erc20::InstanceSerde::serialize"],
+      [
+        12,
+        "starklens_contracts::lens_swap_erc20::IERC20DispatcherImpl::transfer_from"
+      ],
+      [13, "starklens_contracts::lens_swap_erc20::StoreInstance::write"],
+      [
+        14,
+        "starklens_contracts::lens_swap_erc20::LenSwapERC20::ContractStateEventEmitter::emit::<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event, core::traits::TIntoT::<starklens_contracts::lens_swap_erc20::LenSwapERC20::Event>>"
+      ],
+      [
+        15,
+        "starklens_contracts::lens_swap_erc20::IERC20DispatcherImpl::transfer"
+      ],
+      [
+        16,
+        "starklens_contracts::lens_swap_erc20::IERC721DispatcherImpl::balance_of"
+      ],
+      [
+        17,
+        "starklens_contracts::lens_swap_erc20::IERC20DispatcherImpl::balance_of"
+      ],
+      [
+        18,
+        "starklens_contracts::lens_swap_erc20::IERC721DispatcherImpl::owner_of"
+      ],
+      [19, "core::integer::Storeu256::read_at_offset"],
+      [
+        20,
+        "starklens_contracts::lens_swap_erc20::StoreGatingCriteria::read_at_offset"
+      ],
+      [
+        21,
+        "starklens_contracts::lens_swap_erc20::GatingCriteriaSerde::serialize"
+      ]
+    ]
   },
   "contract_class_version": "0.1.0",
   "entry_points_by_type": {
@@ -3227,20 +4335,14 @@
     {
       "type": "impl",
       "name": "SwapERC20Impl",
-      "interface_name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::ISwapERC20"
+      "interface_name": "starklens_contracts::lens_swap_erc20::ISwapERC20"
     },
     {
       "type": "struct",
       "name": "core::integer::u256",
       "members": [
-        {
-          "name": "low",
-          "type": "core::integer::u128"
-        },
-        {
-          "name": "high",
-          "type": "core::integer::u128"
-        }
+        { "name": "low", "type": "core::integer::u128" },
+        { "name": "high", "type": "core::integer::u128" }
       ]
     },
     {
@@ -3251,10 +4353,7 @@
           "name": "Some",
           "type": "core::starknet::contract_address::ContractAddress"
         },
-        {
-          "name": "None",
-          "type": "()"
-        }
+        { "name": "None", "type": "()" }
       ]
     },
     {
@@ -3265,15 +4364,12 @@
           "name": "Some",
           "type": "(core::starknet::contract_address::ContractAddress, core::integer::u256)"
         },
-        {
-          "name": "None",
-          "type": "()"
-        }
+        { "name": "None", "type": "()" }
       ]
     },
     {
       "type": "struct",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::GatingCriteria",
+      "name": "starklens_contracts::lens_swap_erc20::GatingCriteria",
       "members": [
         {
           "name": "gated_account",
@@ -3295,12 +4391,9 @@
     },
     {
       "type": "struct",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::Instance",
+      "name": "starklens_contracts::lens_swap_erc20::Instance",
       "members": [
-        {
-          "name": "id",
-          "type": "core::integer::u32"
-        },
+        { "name": "id", "type": "core::integer::u32" },
         {
           "name": "initiator",
           "type": "core::starknet::contract_address::ContractAddress"
@@ -3309,31 +4402,22 @@
           "name": "initiator_erc20",
           "type": "core::starknet::contract_address::ContractAddress"
         },
-        {
-          "name": "initiator_amount",
-          "type": "core::integer::u256"
-        },
+        { "name": "initiator_amount", "type": "core::integer::u256" },
         {
           "name": "counter_party_erc20",
           "type": "core::starknet::contract_address::ContractAddress"
         },
-        {
-          "name": "counter_party_amount",
-          "type": "core::integer::u256"
-        },
-        {
-          "name": "state",
-          "type": "core::integer::u8"
-        },
+        { "name": "counter_party_amount", "type": "core::integer::u256" },
+        { "name": "state", "type": "core::integer::u8" },
         {
           "name": "gating",
-          "type": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::GatingCriteria"
+          "type": "starklens_contracts::lens_swap_erc20::GatingCriteria"
         }
       ]
     },
     {
       "type": "interface",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::ISwapERC20",
+      "name": "starklens_contracts::lens_swap_erc20::ISwapERC20",
       "items": [
         {
           "type": "function",
@@ -3343,18 +4427,12 @@
               "name": "initiator_erc20",
               "type": "core::starknet::contract_address::ContractAddress"
             },
-            {
-              "name": "initiator_amount",
-              "type": "core::integer::u256"
-            },
+            { "name": "initiator_amount", "type": "core::integer::u256" },
             {
               "name": "counter_party_erc20",
               "type": "core::starknet::contract_address::ContractAddress"
             },
-            {
-              "name": "counter_party_amount",
-              "type": "core::integer::u256"
-            },
+            { "name": "counter_party_amount", "type": "core::integer::u256" },
             {
               "name": "gated_account",
               "type": "core::starknet::contract_address::ContractAddress"
@@ -3372,70 +4450,41 @@
               "type": "core::option::Option::<(core::starknet::contract_address::ContractAddress, core::integer::u256)>"
             }
           ],
-          "outputs": [
-            {
-              "type": "core::integer::u32"
-            }
-          ],
+          "outputs": [{ "type": "core::integer::u32" }],
           "state_mutability": "external"
         },
         {
           "type": "function",
           "name": "cancel",
-          "inputs": [
-            {
-              "name": "id",
-              "type": "core::integer::u32"
-            }
-          ],
+          "inputs": [{ "name": "id", "type": "core::integer::u32" }],
           "outputs": [],
           "state_mutability": "external"
         },
         {
           "type": "function",
           "name": "complete",
-          "inputs": [
-            {
-              "name": "id",
-              "type": "core::integer::u32"
-            }
-          ],
+          "inputs": [{ "name": "id", "type": "core::integer::u32" }],
           "outputs": [],
           "state_mutability": "external"
         },
         {
           "type": "function",
           "name": "find_instance",
-          "inputs": [
-            {
-              "name": "id",
-              "type": "core::integer::u32"
-            }
-          ],
+          "inputs": [{ "name": "id", "type": "core::integer::u32" }],
           "outputs": [
-            {
-              "type": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::Instance"
-            }
+            { "type": "starklens_contracts::lens_swap_erc20::Instance" }
           ],
           "state_mutability": "view"
         }
       ]
     },
-    {
-      "type": "constructor",
-      "name": "constructor",
-      "inputs": []
-    },
+    { "type": "constructor", "name": "constructor", "inputs": [] },
     {
       "type": "event",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Begun",
+      "name": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Begun",
       "kind": "struct",
       "members": [
-        {
-          "name": "id",
-          "type": "core::integer::u32",
-          "kind": "key"
-        },
+        { "name": "id", "type": "core::integer::u32", "kind": "key" },
         {
           "name": "initiator",
           "type": "core::starknet::contract_address::ContractAddress",
@@ -3445,46 +4494,34 @@
     },
     {
       "type": "event",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Cancelled",
+      "name": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Cancelled",
       "kind": "struct",
-      "members": [
-        {
-          "name": "id",
-          "type": "core::integer::u32",
-          "kind": "key"
-        }
-      ]
+      "members": [{ "name": "id", "type": "core::integer::u32", "kind": "key" }]
     },
     {
       "type": "event",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Finished",
+      "name": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Finished",
       "kind": "struct",
-      "members": [
-        {
-          "name": "id",
-          "type": "core::integer::u32",
-          "kind": "key"
-        }
-      ]
+      "members": [{ "name": "id", "type": "core::integer::u32", "kind": "key" }]
     },
     {
       "type": "event",
-      "name": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Event",
+      "name": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Event",
       "kind": "enum",
       "variants": [
         {
           "name": "Begun",
-          "type": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Begun",
+          "type": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Begun",
           "kind": "nested"
         },
         {
           "name": "Cancelled",
-          "type": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Cancelled",
+          "type": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Cancelled",
           "kind": "nested"
         },
         {
           "name": "Finished",
-          "type": "/opt/app/api/upload/temp/e75a65f0c0c84fb0b6dcaa914c1299f092ddf103369a91c2df23856526e3ee5a/src::SwapERC20::Finished",
+          "type": "starklens_contracts::lens_swap_erc20::LenSwapERC20::Finished",
           "kind": "nested"
         }
       ]
